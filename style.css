@@ -1,0 +1,26 @@
+/* Breadcrumb */
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+.breadcrumb {
+    background-color: #515161;
+    border-radius: 0;
+}
+
+a, a:hover {
+    color: #AEBD38;
+}
+
+/* Table */
+table {
+    color: #68829E;
+    margin: 100px 10px;
+}
+
+thead {
+    background-color: #68829E;
+    color: white;
+    cursor: pointer;
+}
