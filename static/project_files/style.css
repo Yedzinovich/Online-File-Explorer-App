@@ -25,7 +25,7 @@ thead {
     cursor: pointer;
 }
 
-.icon {
+tbody .icon {
     font-size: 24px;
     color: #68829E;
 }
