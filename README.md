@@ -4,7 +4,7 @@ This application is a simplified version of online file explorer storage that ca
 
 ## Where to find it?
 
-Just click on [Online-File-Explorer-App](https://innawebdev.offyoucode.co.uk/mogo/)! 
+Just click on [Online-File-Explorer-App](https://nameless-hamlet-71866.herokuapp.com/)! 
 
 ## Built With
 <ul>
