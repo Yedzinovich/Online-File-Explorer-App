@@ -1,0 +1,22 @@
+{
+  "name": "online-file-explorer-app",
+  "version": "1.0.0",
+  "description": "This application is a simplified version of online file explorer storage that can store and display user's files.",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yedzinovich/online-file-explorer-app.git"
+  },
+  "author": "Inna Y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yedzinovich/online-file-explorer-app/issues"
+  },
+  "homepage": "https://github.com/Yedzinovich/online-file-explorer-app#readme"
+}
